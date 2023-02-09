@@ -1,0 +1,6 @@
+[01-Nov-2022 14:44:25 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xvsstbyn3agl/public_html/bamboo/include/db.php on line 2
+[01-Nov-2022 14:44:36 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xvsstbyn3agl/public_html/bamboo/include/db.php on line 2
+[02-Nov-2022 06:52:35 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xvsstbyn3agl/public_html/bamboo/include/db.php on line 2
+[02-Nov-2022 06:52:59 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xvsstbyn3agl/public_html/bamboo/include/db.php on line 2
+[02-Nov-2022 06:53:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xvsstbyn3agl/public_html/bamboo/include/db.php on line 2
+[02-Nov-2022 06:55:18 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/xvsstbyn3agl/public_html/bamboo/include/db.php on line 2
